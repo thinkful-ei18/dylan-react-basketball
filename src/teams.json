@@ -1,0 +1,126 @@
+[
+  {
+    "team": "Houston Rockets",
+    "logoUrl":
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/04270328843107.55d60145d8c14.jpg",
+    "record": "47-13",
+    "color": "#C71939",
+    "place": 1,
+    "conference": "Western",
+    "leaders": {
+      "points": [
+        { "name": "James Harden", "value": 31.4 },
+        { "name": "Chris Paul", "value": 19.1 },
+        { "name": "Eric Gordon", "value": 18.5 }
+      ],
+      "assists": [
+        { "name": "James Harden", "value": 8.9 },
+        { "name": "Chris Paul", "value": 8.2 },
+        { "name": "Eric Gordon", "value": 2.4 }
+      ],
+      "rebounds": [
+        { "name": "Clint Capela", "value": 11.0 },
+        { "name": "Chris Paul", "value": 5.8 },
+        { "name": "PJ Tucker", "value": 5.6 }
+      ],
+      "minutes": [
+        { "name": "James Harden", "value": 35.8 },
+        { "name": "Trevor Ariza", "value": 34.7 },
+        { "name": "Chris Paul", "value": 32 }
+      ]
+    }
+  },
+  {
+    "team": "Golden State Warriors",
+    "logoUrl":
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e3c36628843107.55d60145d6977.jpg",
+    "record": "47-13",
+    "place": 2,
+    "color": "#F8AF23",
+    "conference": "Western",
+    "leaders": {
+      "points": [
+        { "name": "Steph Curry", "value": 26.7 },
+        { "name": "Kevin Durant", "value": 25.9 },
+        { "name": "Klay Thompson", "value": 20.0 }
+      ],
+      "assists": [
+        { "name": "Draymond Green", "value": 7.3 },
+        { "name": "Steph Curry", "value": 6.5 },
+        { "name": "Kevin Durant", "value": 5.5 }
+      ],
+      "rebounds": [
+        { "name": "Draymond Green", "value": 7.8 },
+        { "name": "Kevin Durant", "value": 6.8 },
+        { "name": "Steph Curry", "value": 5.3 }
+      ],
+      "minutes": [
+        { "name": "Kevin Durant", "value": 34.4 },
+        { "name": "Klay Thompson", "value": 34.1 },
+        { "name": "Draymond Green", "value": 32.8 }
+      ]
+    }
+  },
+  {
+    "team": "San Antonio Spurs",
+    "logoUrl":
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d1982c28843107.55d618f8bedc5.jpg",
+    "record": "47-13",
+    "place": 3,
+    "color": "#0C171D",
+    "conference": "Western",
+    "leaders": {
+      "points": [
+        { "name": "LaMarcus Aldridge", "value": 22.8 },
+        { "name": "Kawhi Lonard", "value": 16.2 },
+        { "name": "Rudy Gay", "value": 11.1 }
+      ],
+      "assists": [
+        { "name": "Tony Parker", "value": 3.9 },
+        { "name": "Pau Gasol", "value": 3.3 },
+        { "name": "Kyle Anderson", "value": 2.8 }
+      ],
+      "rebounds": [
+        { "name": "Pau Gasol", "value": 8.4 },
+        { "name": "LaMarcus Aldridge", "value": 8.3 },
+        { "name": "Kyle Anderson", "value": 5.7 }
+      ],
+      "minutes": [
+        { "name": "LaMarcus Aldridge", "value": 34.0 },
+        { "name": "Kyle Anderson", "value": 27.5 },
+        { "name": "Danny Green", "value": 26.2 }
+      ]
+    }
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "logoUrl":
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b2973728843107.55d618f8abf6d.jpg",
+    "record": "47-13",
+    "place": 4,
+    "color": "#084675",
+    "conference": "Western",
+    "leaders": {
+      "points": [
+        { "name": "Jimmy Butler", "value": 22.2 },
+        { "name": "Karl Anthony Towns", "value": 20.3 },
+        { "name": "Andrew Wiggins", "value": 17.7 }
+      ],
+      "assists": [
+        { "name": "Jeff Teague", "value": 7.0 },
+        { "name": "Jimmy Butler", "value": 5.0 },
+        { "name": "Tyus Jones", "value": 2.7 }
+      ],
+      "rebounds": [
+        { "name": "Karl Anthony Towns", "value": 12.3 },
+        { "name": "Taj Gibson", "value": 7.2 },
+        { "name": "Jimmy Butler", "value": 5.4 }
+      ],
+      "minutes": [
+        { "name": "Jimmy Butler", "value": 37.1 },
+        { "name": "Andrew Wiggins", "value": 36.1 },
+        { "name": "Karl Anthony Towns", "value": 35.2 }
+      ]
+    }
+  }
+]

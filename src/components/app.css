@@ -1,0 +1,9 @@
+.cards {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+}
+
+h1 {
+  text-align: center;
+}

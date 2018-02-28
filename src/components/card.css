@@ -1,0 +1,30 @@
+.card {
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+  box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, .2);
+  border-radius: 5px;
+  background-color: white;
+  max-width: 95%;
+  margin-bottom: 10px;
+}
+
+@media only screen and (min-width: 620px) {
+  .card {
+    margin: auto;
+    margin-bottom: 20px;
+    max-width: 48%;
+  }
+}
+
+@media only screen and (min-width: 1600px) {
+  .card {
+    margin: auto;
+    margin-bottom: 20px;
+    max-width: 24%;
+  }
+}
+
+.card img {
+  width: 100%;
+}
